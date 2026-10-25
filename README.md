@@ -1,4 +1,4 @@
- Mini-Projeto Avalistibvo — Análise de Dados de Varejo
+ Mini-Projeto Avaliativo — Análise de Dados de Varejo
 
 Sobre o projeto: ele tem como objetivo realizar uma análise exploratória de uma base de dados de varejo utilizando Python e a biblioteca Pandas. 
 O trabalho faz parte do mini-projeto avaliativo do curso de Análise de Dados e busca aplicar conceitos de análise e limpeza de dados, estatística descritiva e visualização de informações.
